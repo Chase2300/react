@@ -1,0 +1,7 @@
+.border{
+    border: 3px solid green;
+    padding: 3px;
+}
+.border_none{
+    border: none;
+}
